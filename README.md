@@ -30,7 +30,7 @@ class JoelMatias extends FullStackDeveloper
     public string $nombre     = 'Joel Matias';
     public string $rol        = 'Full Stack Developer';
     public string $enfoque    = 'Laravel Ecosystem';
-    public string $ubicacion  = 'México 🇲🇽';
+    public string $ubicacion  = 'Oaxaca, México 🇲🇽';
     
     public function stack(): array
     {
@@ -134,46 +134,7 @@ class JoelMatias extends FullStackDeveloper
 
 <br>
 
-## 🧠 &nbsp;Áreas de Dominio
 
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   🏗️  Arquitectura MVC & Modular con Laravel                    ║
- ║   🔐  Autenticación, Roles y Permisos (Sanctum + Spatie)        ║
- ║   🛒  E-commerce: Carrito, Checkout, Pasarelas de Pago          ║
- ║   📦  CRUD Avanzado con Livewire + Alpine.js                    ║
- ║   🗃️  Modelado de BD Relacional (Eloquent ORM)                  ║
- ║   📄  Generación de PDFs y Documentos (DomPDF)                  ║
- ║   🤖  Integración de APIs (Google Gemini, Newsdata, Niubiz)     ║
- ║   🧪  Testing con Pest & PHPUnit                                ║
- ║   🐳  Contenedores Docker para entornos de desarrollo           ║
- ║   ⚡  Frontend Reactivo (Livewire + Alpine.js + Tailwind)        ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-## 🔥 &nbsp;Nivel de Competencia
-
-<div align="center">
-
-| Tecnología | Nivel | Experiencia |
-|:---|:---|:---|
-| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | `████████████████████` | Avanzado — Apps completas con Jetstream, Livewire, Spatie, pagos |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | `████████████████████` | Avanzado — PHP 8.2, OOP, patrones de diseño |
-| ![Livewire](https://img.shields.io/badge/-Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white) | `██████████████████░░` | Avanzado — Componentes dinámicos, filtros, tablas en tiempo real |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | `██████████████████░░` | Avanzado — UI responsive, utility-first design |
-| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | `████████████████░░░░` | Intermedio-Alto — Modelado relacional, migraciones, seeders |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `████████████████░░░░` | Intermedio-Alto — DOM, Fetch API, integración con APIs |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `██████████████░░░░░░` | Intermedio — Docker Compose para dev environments |
-| ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) | `██████████████░░░░░░` | Intermedio — Interactividad frontend ligera |
-| ![Pest](https://img.shields.io/badge/-Pest-F28D1A?style=flat-square&logo=php&logoColor=white) | `████████████░░░░░░░░` | Intermedio — Tests de autenticación, CRUD, autorización |
 
 </div>
 
@@ -260,12 +221,6 @@ class JoelMatias extends FullStackDeveloper
 <br>
 
 <div align="center">
-
-```
- "No se trata de cuántas líneas escribes, sino de cuántos problemas resuelves."
-```
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6334&height=120&section=footer"/>
 
