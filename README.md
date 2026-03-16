@@ -1,126 +1,272 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Developer;Joel+Matias)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola,%20Joel!&height=100&section=header&animation=twinkling&fontSize=40"/>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<div align="center">
-  <a href="https://github.com/joel-matias">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/joel-matias?style=social" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=joel-matias&color=blueviolet&style=flat" alt="Profile views" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Projects%20✨-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-México%20🇲🇽-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Studies-Software%20Development%20💻-blue?style=for-the-badge" />
-</p>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Full Stack Developer & Web Enthusiast
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-
-Soy **Joel Matias**, desarrollador apasionado por crear aplicaciones web y aprender nuevas tecnologías.  
-Me gusta trabajar en proyectos que me permitan mejorar mis habilidades en **backend, APIs y desarrollo web moderno**.
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Especialidades:
-
-🎨 **UI/UX**
-- Interfaces limpias
-- Experiencias de usuario simples
-- Diseño web moderno
-
-🛠️ **Web Development**
-- Desarrollo web responsive
-- Integración de APIs
-- Clean code
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 💻 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1a6334&height=200&section=header&text=Joel%20Matias&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20Architect&descAlignY=58&descSize=18&descColor=8b949e"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Construyendo+soluciones+web+completas+%F0%9F%9A%80;Del+backend+al+frontend%2C+con+Laravel+como+motor+%E2%9A%A1)](https://git.io/typing-svg)
 
-### 🔧 Otras Tecnologías
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,git,vscode,github" />
-
-</div>
-
-### 🎯 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/joel-matias/notestips" target="_blank">
-  <img src="https://img.shields.io/badge/-NotesTips%20App-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+<a href="https://github.com/joel-matias">
+  <img src="https://img.shields.io/badge/15+_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/joel-matias/ecommerce" target="_blank">
-  <img src="https://img.shields.io/badge/-Ecommerce%20Project-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+<a href="https://github.com/joel-matias">
+  <img src="https://img.shields.io/github/followers/joel-matias?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636" />
 </a>
-
-<a href="https://github.com/joel-matias/video_games_api" target="_blank">
-  <img src="https://img.shields.io/badge/-Video%20Games%20API-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-matias&theme=react-dark&hide_border=true" width="100%">
+<img src="https://komarev.com/ghpvc/?username=joel-matias&color=238636&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
-### 📊 Estadísticas de GitHub
+<br>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre mí
+
+```php
+<?php
+
+namespace App\Developers;
+
+class JoelMatias extends FullStackDeveloper
+{
+    public string $nombre     = 'Joel Matias';
+    public string $rol        = 'Full Stack Developer';
+    public string $enfoque    = 'Laravel Ecosystem';
+    public string $ubicacion  = 'México 🇲🇽';
+    
+    public function stack(): array
+    {
+        return [
+            'backend'   => ['PHP 8.2', 'Laravel 12', 'Livewire 3', 'Eloquent ORM'],
+            'frontend'  => ['Tailwind CSS', 'Alpine.js', 'Blade', 'JavaScript', 'Vite'],
+            'database'  => ['MySQL 8', 'SQLite'],
+            'devops'    => ['Docker', 'Composer', 'Git'],
+            'testing'   => ['Pest', 'PHPUnit'],
+            'apis'      => ['Google Gemini', 'Newsdata.io', 'Niubiz Payments'],
+        ];
+    }
+
+    public function filosofia(): string
+    {
+        return 'Código limpio, arquitectura sólida, experiencias que funcionan.';
+    }
+}
+```
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Arsenal Tecnológico
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joel-matias&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-matias&theme=react"/>
-</div>
 
-### 🏆 Trofeos de GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joel-matias&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### 🎨 Diseño y Desarrollo
+### ⚙️ Backend & Core
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
-      <br>UI
-    </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="80">
-      <br>Web Dev
-    </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80">
-      <br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80">
-      <br>VS Code
-    </td>
-  </tr>
+<br>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite&theme=dark" />
+
+<br><br>
+
+![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire_3-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spatie](https://img.shields.io/badge/Spatie_Permissions-197593?style=flat-square&logo=laravel&logoColor=white)
+![Jetstream](https://img.shields.io/badge/Jetstream-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🎨 Frontend & UI
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs&theme=dark" />
+
+<br><br>
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade_Templates-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-8C5AE5?style=flat-square&logo=javascript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🧪 Testing & QA
+
+<br>
+
+![Pest](https://img.shields.io/badge/Pest-F28D1A?style=flat-square&logo=pestphp&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3F9FD8?style=flat-square&logo=php&logoColor=white)
+![Laravel Pint](https://img.shields.io/badge/Laravel_Pint-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Debugbar](https://img.shields.io/badge/Debugbar-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ DevOps & Herramientas
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+
+<br><br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-### 📫 Contáctame
+</div>
+
+<br>
+
+## 🧠 &nbsp;Áreas de Dominio
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/joel-matias)
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   🏗️  Arquitectura MVC & Modular con Laravel                    ║
+ ║   🔐  Autenticación, Roles y Permisos (Sanctum + Spatie)        ║
+ ║   🛒  E-commerce: Carrito, Checkout, Pasarelas de Pago          ║
+ ║   📦  CRUD Avanzado con Livewire + Alpine.js                    ║
+ ║   🗃️  Modelado de BD Relacional (Eloquent ORM)                  ║
+ ║   📄  Generación de PDFs y Documentos (DomPDF)                  ║
+ ║   🤖  Integración de APIs (Google Gemini, Newsdata, Niubiz)     ║
+ ║   🧪  Testing con Pest & PHPUnit                                ║
+ ║   🐳  Contenedores Docker para entornos de desarrollo           ║
+ ║   ⚡  Frontend Reactivo (Livewire + Alpine.js + Tailwind)        ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+## 🔥 &nbsp;Nivel de Competencia
+
+<div align="center">
+
+| Tecnología | Nivel | Experiencia |
+|:---|:---|:---|
+| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | `████████████████████` | Avanzado — Apps completas con Jetstream, Livewire, Spatie, pagos |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | `████████████████████` | Avanzado — PHP 8.2, OOP, patrones de diseño |
+| ![Livewire](https://img.shields.io/badge/-Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white) | `██████████████████░░` | Avanzado — Componentes dinámicos, filtros, tablas en tiempo real |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | `██████████████████░░` | Avanzado — UI responsive, utility-first design |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | `████████████████░░░░` | Intermedio-Alto — Modelado relacional, migraciones, seeders |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `████████████████░░░░` | Intermedio-Alto — DOM, Fetch API, integración con APIs |
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `██████████████░░░░░░` | Intermedio — Docker Compose para dev environments |
+| ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) | `██████████████░░░░░░` | Intermedio — Interactividad frontend ligera |
+| ![Pest](https://img.shields.io/badge/-Pest-F28D1A?style=flat-square&logo=php&logoColor=white) | `████████████░░░░░░░░` | Intermedio — Tests de autenticación, CRUD, autorización |
+
+</div>
+
+<br>
+
+## 📊 &nbsp;Estadísticas de GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joel-matias&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=joel-matias&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-matias&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+
+</div>
+
+<br>
+
+## 🏆 &nbsp;Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joel-matias&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+<br>
+
+## 📈 &nbsp;Actividad Reciente
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-matias&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" width="100%" />
+
+</div>
+
+<br>
+
+## 🐍 &nbsp;Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joel-matias/joel-matias/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joel-matias/joel-matias/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/joel-matias/joel-matias/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+> 💡 *Para activar la snake animation, crea un GitHub Action en tu repo `joel-matias` con el workflow de [Platane/snk](https://github.com/Platane/snk).*
+
+<br>
+
+## 💡 &nbsp;Repos Destacados
+
+<div align="center">
+
+<a href="https://github.com/joel-matias/ecommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joel-matias&repo=ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+</a>
+<a href="https://github.com/joel-matias/notestips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joel-matias&repo=notestips&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
+</a>
+
+</div>
+
+<br>
+
+## 🤝 &nbsp;Conecta conmigo
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-joel--matias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joel-matias)
+[![NotesTips Demo](https://img.shields.io/badge/-NotesTips_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://notestips.jmsweb.site)
+[![Trivia HxH](https://img.shields.io/badge/-Trivia_HxH_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://triviahunterxhunter.vercel.app/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+ "No se trata de cuántas líneas escribes, sino de cuántos problemas resuelves."
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6334&height=120&section=footer"/>
+
 </div>
