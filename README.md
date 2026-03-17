@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=Construyendo+soluciones+web+completas+%F0%9F%9A%80;Del+backend+al+frontend%2C+con+Laravel+como+motor+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=Construyendo+soluciones+web+completas+%F0%9F%9A%80;Del+backend+al+frontend%2C+con+Laravel%E2%9A%A1)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,36 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre mí
 
-```php
-<?php
-
-namespace App\Developers;
-
-class JoelMatias extends FullStackDeveloper
-{
-    public string $nombre     = 'Joel Matias';
-    public string $rol        = 'Full Stack Developer';
-    public string $enfoque    = 'Laravel Ecosystem';
-    public string $ubicacion  = 'Oaxaca, México 🇲🇽';
-    
-    public function stack(): array
-    {
-        return [
-            'backend'   => ['PHP 8.2', 'Laravel 12', 'Livewire 3', 'Eloquent ORM'],
-            'frontend'  => ['Tailwind CSS', 'Alpine.js', 'Blade', 'JavaScript', 'Vite'],
-            'database'  => ['MySQL 8', 'SQLite'],
-            'devops'    => ['Docker', 'Composer', 'Git'],
-            'testing'   => ['Pest', 'PHPUnit'],
-            'apis'      => ['Google Gemini', 'Newsdata.io', 'Niubiz Payments'],
-        ];
-    }
-
-    public function filosofia(): string
-    {
-        return 'Código limpio, arquitectura sólida, experiencias que funcionan.';
-    }
-}
-```
+### sobre mi
 
 <br>
 
