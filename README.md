@@ -189,8 +189,6 @@ class JoelMatias extends FullStackDeveloper
 
 </div>
 
-> 💡 *Para activar la snake animation, crea un GitHub Action en tu repo `joel-matias` con el workflow de [Platane/snk](https://github.com/Platane/snk).*
-
 <br>
 
 ## 💡 &nbsp;Repos Destacados
