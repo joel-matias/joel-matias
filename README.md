@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Construyendo+soluciones+web+completas+%F0%9F%9A%80+Del+backend+al+frontend%2C+con+Laravel+como+motor+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=Construyendo+soluciones+web+completas+%F0%9F%9A%80;Del+backend+al+frontend%2C+con+Laravel+como+motor+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br>
 
