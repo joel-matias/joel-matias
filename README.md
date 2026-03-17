@@ -214,7 +214,7 @@ class JoelMatias extends FullStackDeveloper
 
 [![GitHub](https://img.shields.io/badge/-joel--matias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joel-matias)
 [![NotesTips Demo](https://img.shields.io/badge/-NotesTips_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://notestips.jmsweb.site)
-[![Trivia HxH](https://img.shields.io/badge/-Trivia_HxH_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://triviahunterxhunter.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/-Trivia_HxH_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://jms-portafolio.vercel.app/)
 
 </div>
 
