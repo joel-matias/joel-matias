@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre mí
 
-### sobre mi
+### sobre mi (Pendiente)
 
 <br>
 
