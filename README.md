@@ -114,9 +114,9 @@
 ## 📊 &nbsp;Estadísticas de GitHub
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joel-matias&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e&ring_color=238636" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=joel-matias&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joel-matias&show_icons=true&theme=github_dark&hide_border=true&bg_color=050b12&title_color=00ffff&icon_color=39ff14&text_color=e6ffff&ring_color=00ff99" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=joel-matias&theme=github-dark-blue&hide_border=true&background=050B12&ring=00FF99&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=39FF14&dates=E6FFFF&stroke=0F1A24" />
 
 </div>
 
