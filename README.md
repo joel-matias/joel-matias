@@ -135,8 +135,8 @@
 ## 📈 &nbsp;Actividad Reciente
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-matias&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" width="100%" />
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-matias&theme=github-compact&hide_border=true&bg_color=050b12&color=00ffff&line=00ff99&point=39ff14&area=true&area_color=00ff99" width="100%" />
 
 </div>
 
