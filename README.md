@@ -176,8 +176,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-joel--matias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joel-matias)
-[![NotesTips Demo](https://img.shields.io/badge/-NotesTips_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://notestips.jmsweb.site)
-[![Portafolio](https://img.shields.io/badge/-Portafolio_Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://jms-portafolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-joel--ms-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-ms)
+[![Portafolio](https://img.shields.io/badge/-Portafolio_-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://jms-portafolio.vercel.app/)
 
 </div>
 
