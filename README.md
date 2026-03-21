@@ -156,21 +156,6 @@
 
 <br>
 
-## 💡 &nbsp;Repos Destacados
-
-<div align="center">
-
-<a href="https://github.com/joel-matias/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joel-matias&repo=ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-<a href="https://github.com/joel-matias/notestips">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joel-matias&repo=notestips&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e" />
-</a>
-
-</div>
-
-<br>
-
 ## 🤝 &nbsp;Conecta conmigo
 
 <div align="center">
