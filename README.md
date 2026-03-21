@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joel-matias&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://trophy.ryglcloud.net/?username=joel-matias&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
